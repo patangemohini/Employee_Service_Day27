@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bl.io.NIOFileAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-05T10:02:20" hostname="DESKTOP-RUA6ENJ" time="0.121">
+  <properties/>
+  <testcase name="givenPath_WhenChecked_ShouldConfirm()" classname="com.bl.io.NIOFileAPITest" time="0.121"/>
+  <system-out><![CDATA[C:\Users\lenovo\TempPlayGround\temp1
+C:\Users\lenovo\TempPlayGround\temp2
+C:\Users\lenovo\TempPlayGround\temp3
+C:\Users\lenovo\TempPlayGround\temp4
+C:\Users\lenovo\TempPlayGround\temp5
+C:\Users\lenovo\TempPlayGround\temp6
+C:\Users\lenovo\TempPlayGround\temp7
+C:\Users\lenovo\TempPlayGround\temp8
+C:\Users\lenovo\TempPlayGround\temp9
+C:\Users\lenovo\TempPlayGround\temp1
+C:\Users\lenovo\TempPlayGround\temp2
+C:\Users\lenovo\TempPlayGround\temp3
+C:\Users\lenovo\TempPlayGround\temp4
+C:\Users\lenovo\TempPlayGround\temp5
+C:\Users\lenovo\TempPlayGround\temp6
+C:\Users\lenovo\TempPlayGround\temp7
+C:\Users\lenovo\TempPlayGround\temp8
+C:\Users\lenovo\TempPlayGround\temp9
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
