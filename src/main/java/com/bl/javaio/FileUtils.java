@@ -1,8 +1,9 @@
-package com.bl.io;
+package com.bl.javaio;
 
 import java.io.File;
 
 public class FileUtils {
+
     public static boolean deleteFiles(File contentsToDelete) {
         File[] allContents = contentsToDelete.listFiles();
         if (allContents != null) {
